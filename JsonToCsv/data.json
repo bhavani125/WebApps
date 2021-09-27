@@ -1,0 +1,17 @@
+[
+    {
+        "id":"1",
+        "name":"Bhavani",
+        "position":"Manager"
+    },
+    {
+        "id":"2",
+        "name":"laxmi",
+        "position":"Employee"
+    },
+    {
+        "id":"3",
+        "name":"Vinay",
+        "position":"Hr"
+    }
+]
